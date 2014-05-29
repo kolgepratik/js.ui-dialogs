@@ -5,6 +5,9 @@
     "keywords": [        
 		"dialog",
         "dialogbox",
+        "modal",
+        "modalbox",
+        "window",
 		"overlay",
       	"popup",
     	"hover",
