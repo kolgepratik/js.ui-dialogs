@@ -11,9 +11,9 @@
     	"stack"
     ],
     "version": "1.0.0",
-	"homepage": "http://kolgepratik.github.com/dialog/",
+	"homepage": "http://kolgepratik.github.io/dialog/",
 	"docs": "https://github.com/kolgepratik/dialog/wiki", 
-	"demo": "",
+	"demo": "http://kolgepratik.github.io/dialog/demo.html",
 	"bugs": "https://github.com/kolgepratik/dialog/issues",
     "author": {
         "name": "Kolge Pratik",
