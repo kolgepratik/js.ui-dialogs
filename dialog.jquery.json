@@ -1,0 +1,32 @@
+{
+    "name": "dialog",
+    "title": "dialog - An awesome lightweight jQuery plugin for creating overlay dialogs.",
+    "description": "Use the dialog plugin for creating beautiful overlay dialog boxes. You can open multiple dialogs at once, and see all of them awesomely stacked one behind the other giving it a unique look and feel.",
+    "keywords": [        
+		"dialog",
+        "dialogbox",
+		"overlay",
+      	"popup",
+    	"hover",
+    	"stack"
+    ],
+    "version": "1.0.0",
+	"homepage": "http://kolgepratik.github.com/dialog/",
+	"docs": "https://github.com/kolgepratik/dialog/wiki", 
+	"demo": "",
+	"bugs": "https://github.com/kolgepratik/dialog/issues",
+    "author": {
+        "name": "Kolge Pratik",
+        "url": "http://kolgepratik.wordpress.com/"
+    },    
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://www.opensource.org/licenses/mit-license.php"
+        }
+    ],    
+    "dependencies": {
+        "jquery": ">=1.6",
+		"jqueryUI": ">=1.6"
+    }
+}
