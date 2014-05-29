@@ -16,4 +16,4 @@ To read the documentation go here: https://github.com/kolgepratik/dialog/wiki
 See the demo at: http://kolgepratik.github.io/dialog/demo.html 
 
 
-Feedback is always welcome.
+Feedback is always welcome. :)
